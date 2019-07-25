@@ -6,6 +6,7 @@ function writeMsg() {
 function writeMsg() {
     echo "Hello world!";
 }
+// quick comment
 
 writeMsg(); // call the function
 ?>
